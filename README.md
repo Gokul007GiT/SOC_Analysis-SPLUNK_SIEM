@@ -1,2 +1,1 @@
-# SOC_Analysis-SPLUNK_SIEM
-SOC-based Linux attack lifecycle detection using Splunk SIEM, correlating firewall and authentication logs to identify network reconnaissance, SSH brute-force activity, and successful access through dashboards and alerts.
+This repository contains documentation and artifacts for a SOC-focused Linux attack detection project implemented using Splunk SIEM.
